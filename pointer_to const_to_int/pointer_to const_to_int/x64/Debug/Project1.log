@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\THANG\Desktop\make_file\pointer_to const_to_int\pointer_to const_to_int\Source.c(9,22): error C2373: 'px': redefinition; different type modifiers
+C:\Users\THANG\Desktop\make_file\pointer_to const_to_int\pointer_to const_to_int\Source.c(7,16): message : see declaration of 'px'
+C:\Users\THANG\Desktop\make_file\pointer_to const_to_int\pointer_to const_to_int\Source.c(4,16): warning C4090: 'initializing': different 'const' qualifiers
