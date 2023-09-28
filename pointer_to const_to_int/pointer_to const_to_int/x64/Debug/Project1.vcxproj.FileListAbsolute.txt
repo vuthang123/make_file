@@ -1,1 +1,0 @@
-C:\Users\THANG\Desktop\make_file\pointer_to const_to_int\pointer_to const_to_int\x64\Debug\Project1.exe
