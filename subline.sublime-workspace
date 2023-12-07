@@ -1,0 +1,429 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"a",
+				"main"
+			],
+			[
+				"p",
+				"printf"
+			],
+			[
+				"i",
+				"main\tmain()"
+			],
+			[
+				"ma",
+				"main\tmain()"
+			],
+			[
+				"pri",
+				"printf"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "subline.sublime-workspace",
+			"settings":
+			{
+				"buffer_size": 8269,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "1D/Variable_in_make2/Makefile",
+			"settings":
+			{
+				"buffer_size": 379,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					4,
+					1,
+					"insert",
+					{
+						"characters": "@"
+					},
+					"AQAAAEsBAAAAAAAATAEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAASwEAAAAAAABLAQAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"contents": "Searching 4 files for \"create_object_file\"\n\nC:\\Users\\THANG\\Desktop\\make_file\\1D\\Variable_in_make2\\Makefile:\n    3  OUTPUT_PATH := $(PRO_DIR)/output \n    4  \n    5: create_object_file: src/main.c\n    6  \tgcc -c src/main.c -o output/main.o\n    7  build: output/main.o\n\n1 match in 1 file\n",
+			"settings":
+			{
+				"buffer_size": 285,
+				"line_ending": "Windows",
+				"name": "Find Results",
+				"scratch": true
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C Single File.sublime-build",
+				"Run"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: pkginst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Enable Package"
+			],
+			[
+				"Package Control: B",
+				"Package Control: Enable Package"
+			],
+			[
+				"te",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"termi",
+				"Preferences: Terminal Settings"
+			],
+			[
+				"ter",
+				"Terminal: Open in project folder"
+			],
+			[
+				"",
+				"Activate Materialize Theme"
+			],
+			[
+				"packe",
+				"Package Control: Install Package"
+			],
+			[
+				"k",
+				"Convert Case: kebab-case"
+			],
+			[
+				"pa",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/THANG/Desktop/make_file/1D",
+		"/C/Users/THANG/Desktop/make_file/1D/Variable_in_make2"
+	],
+	"file_history":
+	[
+		"/C/Users/THANG/Desktop/make_file/test_make/source/main.c",
+		"/C/Users/THANG/Desktop/It/MOCK2_G1/DEMO1/MOCK/Mock2/source/main.c",
+		"/C/Users/THANG/Desktop/1/New Text Document.txt",
+		"/C/Users/THANG/Desktop/1/upperlayer.c",
+		"/C/Users/THANG/Desktop/test_code/Subline/outputf.out",
+		"/C/Users/THANG/Desktop/test_code/Subline/code1.c",
+		"/C/Users/THANG/Desktop/test_code/Subline/code2.c",
+		"/C/Users/THANG/Desktop/test_code/Subline/code.cpp",
+		"/C/Users/THANG/AppData/Roaming/Sublime Text/Packages/User/C_run",
+		"/C/Users/THANG/Desktop/test_code/Subline/test.c",
+		"/C/Users/THANG/Desktop/test_code/Subline/test.cpp",
+		"/C/Users/THANG/AppData/Roaming/Sublime Text/Packages/User/CP.sublime-build"
+	],
+	"find":
+	{
+		"height": 43.0
+	},
+	"find_in_files":
+	{
+		"height": 191.0,
+		"where_history":
+		[
+			"C:\\Users\\THANG\\Desktop\\make_file\\1D\\Variable_in_make2,<project filters>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"create_object_file"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"folders":
+	[
+		{
+			"path": "C:\\Users\\THANG\\Desktop\\make_file\\1D"
+		},
+		{
+			"path": "C:\\Users\\THANG\\Desktop\\make_file\\2D"
+		}
+	],
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "subline.sublime-workspace",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8269,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JSON/JSON.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 3052.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "1D/Variable_in_make2/Makefile",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 379,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								339,
+								339
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Makefile/Makefile.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 285,
+						"regions":
+						{
+							"match":
+							{
+								"flags": 112,
+								"regions":
+								[
+									[
+										164,
+										182
+									]
+								],
+								"scope": ""
+							}
+						},
+						"selection":
+						[
+							[
+								284,
+								284
+							]
+						],
+						"settings":
+						{
+							"detect_indentation": false,
+							"line_numbers": false,
+							"output_tag": 1,
+							"result_base_dir": "",
+							"result_file_regex": "^([^ \t].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 43.0
+	},
+	"input":
+	{
+		"height": 111.2
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 240.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/CP.sublime-build",
+	"project": "",
+	"replace":
+	{
+		"height": 82.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 406.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}
